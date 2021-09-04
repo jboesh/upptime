@@ -3,14 +3,22 @@ owner: jboesh # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
-  - name: StackJourney
-    url: https://StackJourney.com
-  - name: TrueBullish
-    url: https://TrueBullish.com
-  - name: LearnedDevice
-    url: https://LearnedDevice.com
-  - name: TechSuited
-    url: https://TechSuited.com
+  - name: SJ
+    url: $SJ
+    maxResponseTime: 15000
+    __dangerous__insecure: true
+  - name: TB
+    url: $TB
+    maxResponseTime: 15000
+    __dangerous__insecure: true
+  - name: LD
+    url: $LD
+    maxResponseTime: 15000
+    __dangerous__insecure: true
+  - name: TS
+    url: $TS
+    maxResponseTime: 15000
+    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,14 +26,16 @@ status-website:
   cname: status.stackjourney.com
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Status Huisje
   introTitle: "**Status**"
  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
- # navbar:
+  navbar:
  #   - title: Status
  #     href: /
- #   - title: GitHub
- #     href: https://github.com/$OWNER/$REPO
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+i18n:
+  footer: 
