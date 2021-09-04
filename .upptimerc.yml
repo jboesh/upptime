@@ -6,19 +6,19 @@ sites:
   - name: SJ
     url: $SJ
     maxResponseTime: 15000
-    __dangerous__insecure: true
+  # __dangerous__insecure: true
   - name: TB
     url: $TB
     maxResponseTime: 15000
-    __dangerous__insecure: true
+  # __dangerous__insecure: true
   - name: LD
     url: $LD
     maxResponseTime: 15000
-    __dangerous__insecure: true
+  # __dangerous__insecure: true
   - name: TS
     url: $TS
     maxResponseTime: 15000
-    __dangerous__insecure: true
+  # __dangerous__insecure: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
