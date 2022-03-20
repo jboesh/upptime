@@ -1,7 +1,7 @@
 url: $LD
-status: up
-code: 200
-responseTime: 585
-lastUpdated: 2022-03-19T23:11:29.883Z
+status: down
+code: 404
+responseTime: 535
+lastUpdated: 2022-03-20T13:24:22.222Z
 startTime: Sat Sep 04 2021 11:51:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
