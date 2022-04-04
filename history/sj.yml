@@ -1,7 +1,7 @@
 url: $SJ
-status: up
-code: 200
-responseTime: 632
-lastUpdated: 2022-04-03T23:13:36.200Z
+status: down
+code: 523
+responseTime: 3281
+lastUpdated: 2022-04-04T10:52:38.226Z
 startTime: Sat Sep 04 2021 11:51:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
