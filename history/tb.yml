@@ -1,7 +1,7 @@
 url: $TB
-status: down
-code: 403
-responseTime: 89
-lastUpdated: 2022-06-30T13:44:57.815Z
+status: up
+code: 200
+responseTime: 868
+lastUpdated: 2022-06-30T13:57:10.839Z
 startTime: Sat Sep 04 2021 11:51:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
